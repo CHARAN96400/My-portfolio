@@ -206,4 +206,8 @@
     .projects > .sub_projects > .my_projects > .project > h1 {
       font-size: 14px;
     }
+
+    .projects > .sub_projects > .my_projects > .project:hover > h1 {
+      bottom: 40%;
+    }
   }

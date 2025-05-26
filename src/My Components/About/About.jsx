@@ -72,7 +72,7 @@ const About = () => {
                 <h3>KU College of Engineering and Technology</h3>
                 <p>2020-2024</p>
                 <p>Electrical and Electronics Engineering</p>
-                <p>cgpa : 7.61</p>
+                <p>cgpa : 8.1</p>
             </div>
             <div className="education">
                 <h3>Narayana Junior College</h3>

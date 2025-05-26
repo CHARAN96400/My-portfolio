@@ -3,6 +3,8 @@ import css from '../Skills/Assets/css.webp'
 import javascript from '../Skills/Assets/javascript.webp'
 import reactjs from '../Skills/Assets/reactjs.webp'
 import java from '../Skills/Assets/java.webp'
+import database from '../Skills/Assets/database.webp'
+import springboot from '../Skills/Assets/springboot.svg'
 
 const skills = {
     techskills : [
@@ -27,8 +29,12 @@ const skills = {
             skill : "Java"
         },
         {
-            image : reactjs,
+            image : database,
             skill : "SQL"
+        },
+        {
+            image : springboot,
+            skill : "Spring Boot"
         },
     ]
 }

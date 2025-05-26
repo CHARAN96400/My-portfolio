@@ -10,7 +10,8 @@ const Home = () => {
   const openSocial = (value) => {
     const a = value;
     if(a === "resume"){
-      window.open("/Resume 2025.pdf", "_blank");
+      // https://drive.google.com/file/d/1RvG_VyggbxqfGFOB1zAJhdhGetb1lrIC/view?usp=drivesdk
+      window.open("https://drive.google.com/file/d/1lDeB8V4Ap8zz1ZnfX4NvlK4M_uQ0x4Dt/view?usp=drive_link", "_blank");
     } else if(a === "linkedin"){
       window.open("https://www.linkedin.com/in/harshithpinnamshetti/", "_blank");
     } else if(a === "github"){
