@@ -1,4 +1,4 @@
-# Harshith's Portfolio
+# Charan's Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, education, and experience in the field of software development.
 
