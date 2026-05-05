@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/CHARAN96400/My-portfolio/static/css/main.2bb23ec4.css",
-    "main.js": "/CHARAN96400/My-portfolio/static/js/main.3a28e917.js",
-    "static/js/453.83234151.chunk.js": "/CHARAN96400/My-portfolio/static/js/453.83234151.chunk.js",
-    "static/media/photo.jpg": "/CHARAN96400/My-portfolio/static/media/photo.8eefd1df7d611b58c329.jpg",
-    "static/media/database.webp": "/CHARAN96400/My-portfolio/static/media/database.4985136c4a994b6d3c12.webp",
-    "static/media/food_delivery.webp": "/CHARAN96400/My-portfolio/static/media/food_delivery.6bdb06da69ccce033c8a.webp",
-    "static/media/css.webp": "/CHARAN96400/My-portfolio/static/media/css.8d5cce9ca57f8507ad85.webp",
-    "static/media/html.webp": "/CHARAN96400/My-portfolio/static/media/html.9ba5683e5bf3666e5666.webp",
-    "static/media/reactjs.webp": "/CHARAN96400/My-portfolio/static/media/reactjs.bc77bde37b0e014875c0.webp",
-    "static/media/javascript.webp": "/CHARAN96400/My-portfolio/static/media/javascript.02d784e758ce6b20c5a3.webp",
-    "static/media/python.webp": "/CHARAN96400/My-portfolio/static/media/python.7e33ebd1419c01a87980.webp",
-    "index.html": "/CHARAN96400/My-portfolio/index.html",
-    "main.2bb23ec4.css.map": "/CHARAN96400/My-portfolio/static/css/main.2bb23ec4.css.map",
-    "main.3a28e917.js.map": "/CHARAN96400/My-portfolio/static/js/main.3a28e917.js.map",
-    "453.83234151.chunk.js.map": "/CHARAN96400/My-portfolio/static/js/453.83234151.chunk.js.map"
+    "main.css": "/My-portfolio/static/css/main.1e47c66b.css",
+    "main.js": "/My-portfolio/static/js/main.85a93de2.js",
+    "static/js/453.83234151.chunk.js": "/My-portfolio/static/js/453.83234151.chunk.js",
+    "static/media/photo.jpg": "/My-portfolio/static/media/photo.8eefd1df7d611b58c329.jpg",
+    "static/media/database.webp": "/My-portfolio/static/media/database.4985136c4a994b6d3c12.webp",
+    "static/media/food_delivery.webp": "/My-portfolio/static/media/food_delivery.6bdb06da69ccce033c8a.webp",
+    "static/media/css.webp": "/My-portfolio/static/media/css.8d5cce9ca57f8507ad85.webp",
+    "static/media/html.webp": "/My-portfolio/static/media/html.9ba5683e5bf3666e5666.webp",
+    "static/media/reactjs.webp": "/My-portfolio/static/media/reactjs.bc77bde37b0e014875c0.webp",
+    "static/media/javascript.webp": "/My-portfolio/static/media/javascript.02d784e758ce6b20c5a3.webp",
+    "static/media/python.webp": "/My-portfolio/static/media/python.7e33ebd1419c01a87980.webp",
+    "index.html": "/My-portfolio/index.html",
+    "main.1e47c66b.css.map": "/My-portfolio/static/css/main.1e47c66b.css.map",
+    "main.85a93de2.js.map": "/My-portfolio/static/js/main.85a93de2.js.map",
+    "453.83234151.chunk.js.map": "/My-portfolio/static/js/453.83234151.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bb23ec4.css",
-    "static/js/main.3a28e917.js"
+    "static/css/main.1e47c66b.css",
+    "static/js/main.85a93de2.js"
   ]
 }
