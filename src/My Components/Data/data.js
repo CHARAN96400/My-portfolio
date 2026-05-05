@@ -1,7 +1,7 @@
 const Bio = {
-    fullName : "Harshith Pinnamshetti",
+    fullName: "Charan Birudu",
 
-    roles : [
+    roles: [
         "FrontEnd Developer",
         "BackEnd Developer",
     ]

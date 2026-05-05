@@ -12,7 +12,7 @@ const About = () => {
         <div id="pic">
 
         </div>
-        <h1>Harshith Pinnamshetti</h1>
+        <h1>Charan Birudu</h1>
         <p>Full Stack Developer</p>
         <hr />
         <aside>
@@ -22,7 +22,7 @@ const About = () => {
             </div>
             <div className="sub-info">
               <p className="up">Email</p>
-              <p className="down">pinnamshettyh@gmail.com</p>
+              <p className="down">charanbirudu22@gmail.com</p>
             </div>
           </div>
           <div className="info">
@@ -31,7 +31,7 @@ const About = () => {
             </div>
             <div className="sub-info">
               <p className="up">Mobile</p>
-              <p className="down">+91 9063600750</p>
+              <p className="down">+91 9640023210</p>
             </div>
           </div>
           <div className="info">
@@ -40,7 +40,7 @@ const About = () => {
             </div>
             <div className="sub-info">
               <p className="up">LinkedIn</p>
-              <p className="down">linkedin.com/in/harshithpinnamshetti</p>
+              <p className="down">linkedin.com/in/charan-birudu-012a4723a</p>
             </div>
           </div>
           <div className="info">
@@ -57,35 +57,35 @@ const About = () => {
       <section className="about-right">
         <h1>About Me :</h1>
         <p>
-          My name is Harshith, and I am from Korutla, Jagitial District,
+          My name is Charan, and I am from Rangareddy District,
           currently residing in Hyderabad. I hold a Bachelor's degree in
           Electrical and Electronics Engineering. After graduation, I further
-          enhanced my skills by completing a Java Full Stack course, where I
-          gained in-depth knowledge of Java, SQL, and web technologies. I am a
+          enhanced my skills by completing a Python Full Stack course, where I
+          gained in-depth knowledge of Python, SQL, and web technologies. I am a
           disciplined, self-motivated, and goal-oriented person, always striving
           for continuous learning and improvement. My hobbies include listening
-          to music and pencil sketching, which reflect my creative side.
+          to music and playing cricket, which reflect my creative side.
         </p>
         <h3>Education :</h3>
         <article>
-            <div className="education">
-                <h3>KU College of Engineering and Technology</h3>
-                <p>2020-2024</p>
-                <p>Electrical and Electronics Engineering</p>
-                <p>cgpa : 8.1</p>
-            </div>
-            <div className="education">
-                <h3>Narayana Junior College</h3>
-                <p>2017-2019</p>
-                <p>Intermediate</p>
-                <p>cgpa : 9.3</p>
-            </div>
-            <div className="education">
-                <h3>Akshara High School</h3>
-                <p>2016-2017</p>
-                <p>SSC</p>
-                <p>cgpa : 9.0</p>
-            </div>
+          <div className="education">
+            <h3>KU College of Engineering and Technology</h3>
+            <p>2020-2024</p>
+            <p>Electrical and Electronics Engineering</p>
+            <p>cgpa : 7.19</p>
+          </div>
+          <div className="education">
+            <h3>TSWR/JC (COE) Boys Shaikpet hyderabad</h3>
+            <p>2018-2020</p>
+            <p>Intermediate</p>
+            <p>cgpa : 9.05</p>
+          </div>
+          <div className="education">
+            <h3>Z P High School</h3>
+            <p>2017-2018</p>
+            <p>SSC</p>
+            <p>cgpa : 9.2</p>
+          </div>
         </article>
       </section>
     </div>
