@@ -11,7 +11,7 @@ const Home = () => {
     const a = value;
     if(a === "resume"){
       // https://drive.google.com/file/d/1RvG_VyggbxqfGFOB1zAJhdhGetb1lrIC/view?usp=drivesdk
-      window.open("https://drive.google.com/file/d/1lDeB8V4Ap8zz1ZnfX4NvlK4M_uQ0x4Dt/view?usp=drive_link", "_blank");
+      window.open("https://drive.google.com/file/d/1coTH93YHBXfZzeqRiVfb2q35UHb1ZJdd/view?usp=drive_link", "_blank");
     } else if(a === "linkedin"){
       window.open("https://www.linkedin.com/in/charan-birudu-012a4723a/", "_blank");
     } else if(a === "github"){

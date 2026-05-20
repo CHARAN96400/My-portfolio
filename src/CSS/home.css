@@ -19,10 +19,11 @@
     height: 350px;
     border-radius: 50%;
     background-image: url("../My Components/Home/Assets/photo.jpg");
-    background-position: center;
+    background-position: center 1%;
     background-repeat: no-repeat;
     background-size: cover;
     box-shadow: 0px 0px 40px #3AB0FF;
+    padding-top: 20px;
   }
   
   .home>.intro{
